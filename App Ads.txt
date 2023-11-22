@@ -1,0 +1,7 @@
+#Facebook Ownership Confirmation
+
+facebook.com,
+276542581547238, RESELLER,
+c3e20eee3f780d68
+
+
